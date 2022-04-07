@@ -2,7 +2,7 @@
 
 Hello there and welcome to the **Physics Playground**! 👋
 
-![Physics Logo](./logo/physics_logo.png)
+![Physics Logo](/logo/physics_logo.png)
 
 This is the home to various implementations of real-time physics engines. Each fork is expected to be almost identical to original but with a few changes:
 
