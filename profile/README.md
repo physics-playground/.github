@@ -1,6 +1,6 @@
 # Physics Playground
 
-Hello there and welcome to the **Physics Playground**! 👋
+Hello there and welcome to the **Physics Playground**! 👋 See [physics-playground.github.io](https://physics-playground.github.io/) for more details and demos.
 
 ![Physics Logo](/logo/physics_logo.png)
 
